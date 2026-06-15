@@ -1,0 +1,248 @@
+{
+  "HumanEval/0": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/4": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/8": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/12": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/16": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/20": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/24": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/28": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/32": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/36": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/40": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/44": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/48": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/52": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/56": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/60": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/64": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/68": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/72": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/76": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/80": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/84": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": false,
+    "claude_err": "AssertionError: Error"
+  },
+  "HumanEval/88": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/92": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/96": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/100": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/104": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/108": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/112": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/116": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/120": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/124": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/128": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/132": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/136": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/140": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": false,
+    "claude_err": "AssertionError: This prints if this assert fails 3 (good for debugging!)"
+  },
+  "HumanEval/144": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/148": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/152": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/156": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  },
+  "HumanEval/160": {
+    "human_pass": true,
+    "human_err": "",
+    "claude_pass": true,
+    "claude_err": ""
+  }
+}

@@ -1,0 +1,4 @@
+pylint
+radon
+matplotlib
+anthropic
