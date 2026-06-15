@@ -8,8 +8,7 @@ technical debt?
 This is a small, fully reproducible pipeline that runs static-analysis tools
 (Pylint, Radon) over matched pairs of human-written and AI-written Python
 solutions to the same problems, and reports the differences. It is a scaled-down
-demonstration of the measurement approach used in my PhD research on technical
-debt in AI-assisted software development.
+demonstration of the measurement approach used in my further study.
 
 ## Result summary (41 HumanEval problems)
 
