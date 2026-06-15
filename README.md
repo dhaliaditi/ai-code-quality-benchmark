@@ -94,7 +94,7 @@ directory (edit the `group` list at the top of each script).
   topic without hand-picking.
 - **Human baseline:** the canonical reference solutions distributed with
   HumanEval, written by the benchmark's authors.
-- **AI solutions:** written directly by Claude given the same function
+- **AI solutions:** analyzed directly by Claude given the same function
   signature and docstring as the human baseline, with no extra prompting,
   hints, or retries. This matches how a developer typically receives
   AI-generated code, a single completion, used as-is.
@@ -104,15 +104,6 @@ directory (edit the `group` list at the top of each script).
   0-10 score, and Radon for cyclomatic complexity and the Maintainability
   Index.
 
-## Relation to my PhD research
 
-My dissertation work measures whether AI coding assistants increase technical
-debt in real open-source repositories, using a five-stage static-analysis
-pipeline (Prospector, Pylint, Radon, SonarQube, SciTools Understand) and the
-SQALE model to estimate the cost of that debt in developer-hours. This repo
-applies the same family of tools at a scale anyone can run, on a public
-benchmark, as a transparent and reproducible starting point.
 
-## License
 
-MIT. See [LICENSE](LICENSE).
